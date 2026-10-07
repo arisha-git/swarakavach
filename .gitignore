@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+data/
+models/*.pt
+!models/artifact_bootstrap.pt
+*.egg-info/
+*.wav
+*.flac
+*.mp3
+.DS_Store
+models/ssl_finetuned/
